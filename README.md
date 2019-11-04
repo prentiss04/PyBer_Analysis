@@ -13,14 +13,14 @@ The Rural market is a driver’s market as it provides the highest fare per ride
 # Multi-line Graph Summary
 
 ## Urban
-Largest market, more volatility than the other markets, but also finishing higher than where started
-Choppiness with ever-decreasing lows and highs from late February to late March  would require deeper analysis to determine root causes as this is not evident in the Suburban and Rural markets. 
+Largest market, more volatility than the other markets, but also finishing higher than where started. 
+Choppiness with ever-decreasing lows and highs from late February to late March would require deeper analysis to determine root causes as this is not evident in the Suburban and Rural markets. 
 
 ## Suburban
 Faces some fare resistance on the bottom side (lows are not getting worse, or better but instead fairly consistent)
 Seeing some stability from mid-March to the end of April with less volatlity
-Generating fare revenue at end of April nearly 2x beginning of january. 
-Started as less than half the size of Rural and finished nearly 60% of Urban market 
+Generating fare revenue at end of April nearly 2x beginning of January. 
+Started as less than half the size of Urban and finished nearly 60% of Urban market 
 Seeing the most positive trend in the final month compared to other markets
 
 ## Rural
